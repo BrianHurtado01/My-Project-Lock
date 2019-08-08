@@ -11,6 +11,5 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
-
+## My Project
 a brief description of your project goes here
