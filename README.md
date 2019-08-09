@@ -1,7 +1,7 @@
 # SoarCS 2019!
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
-![my_screenshot](./screenshot.jpg)
+![my_project](./screenshot.jpg)
 
 <!--
 In this file, you should write a brief description of what your
@@ -11,5 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## My Project
-My partner and I were looking to make a safebo kind of. The end goal was to 
+## Lock box
+My partner and I were looking to make a safebo kind of. The end goal was to create a lock box that would set an alarm when 
+it's open. It also inlcudes a servo that is used as a lock mechanism.
