@@ -12,4 +12,4 @@ your own screenshot.
 -->
 
 ## My Project
-a brief description of your project goes here
+My partner and I were looking to make a safebo kind of. The end goal was to 
